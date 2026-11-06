@@ -1,0 +1,5 @@
+# Kişisel veriler ve anahtarlar depoya konmaz
+veriler/
+veriler.json
+*.yeni
+__pycache__/
